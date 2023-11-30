@@ -1,0 +1,17 @@
+{
+    "name": "aws-swagger-ui",
+    "version": "1.0.0",
+    "description": "A Lambda based Swagger UI",
+    "main": "app.js",
+    "keywords": [
+        "swagger-ui",
+        "aws-lambda",
+        "node-js"
+    ],
+    "author": "Shankar Vasudevan <shankar@clippd.io>",
+    "license": "MIT",
+    "dependencies": {
+        "serverless-http": "^3.2.0",
+        "swagger-ui-express": "^5.0.0"
+    }
+}
